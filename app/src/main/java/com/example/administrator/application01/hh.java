@@ -1,10 +1,8 @@
 package com.example.administrator.application01;
 
-/**
- * Created by Administrator on 2017/3/10.
- */
-
 public class hh {
 
-    dao();
+    public  void print(){
+        System.out.println("第二次修改代码库");
+    }
 }
