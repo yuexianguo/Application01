@@ -14,9 +14,10 @@ public class MainActivity01 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main01);
         TextView viewById = (TextView) findViewById(R.id.tv);
+        test();
     }
 
     public void test() {
-
+        hh.print();
     }
 }
