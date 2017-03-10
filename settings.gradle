@@ -1,1 +1,1 @@
-include ':app', ':heimagirl01'
+include ':app', ':heimagirl01', ':lib', ':androidlib', ':testappmodule', ':heimagirl'

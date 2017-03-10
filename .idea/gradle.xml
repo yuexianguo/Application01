@@ -9,8 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidlib" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/heimagirl" />
             <option value="$PROJECT_DIR$/heimagirl01" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/testappmodule" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
